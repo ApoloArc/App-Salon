@@ -1,0 +1,1 @@
+{"version":3,"sources":["layout/paginacion.scss","layout/paginacion.css"],"names":[],"mappings":"AACI,mBACI,WCAR","file":"paginacion.css","sourcesContent":[".paginacion{\r\n    button{\r\n        border: none;\r\n    }\r\n}",".paginacion button {\n  border: none;\n}"]}
